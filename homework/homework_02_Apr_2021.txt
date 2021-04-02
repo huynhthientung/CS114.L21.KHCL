@@ -18,4 +18,4 @@ Một số ví dụ về các bài toán Machine Learning
 
 4. Bài toán nhận diện logo thương hiệu trên thị trường
 	- Input: một bức ảnh có chưa logo
-	- Output: dạng text chưa tên của logo đó
+	- Output: dạng text chưa tên của logo đó.
