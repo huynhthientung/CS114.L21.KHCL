@@ -6,20 +6,20 @@ Một số ví dụ về các bài toán Machine Learning
 
 1. Bài toán dự đoán giá cổ phiếu
 
-	- Input: thông tin cổ phiếu trong những năm về trước (file .csv)
-	- Output: giá cổ phiếu dự đoán hiện tại hoặc có thể trong tương lai
+	- Input: thông tin cổ phiếu trong những năm về trước (file .csv).
+	- Output: giá cổ phiếu dự đoán hiện tại hoặc có thể trong tương lai.
 
 2. Bài toán nhận dạng chó - mèo:
 
-	- Input: hình ảnh
-	- Output: 0 (tương ứng chó), 1 (tương ứng với mèo)
+	- Input: hình ảnh.
+	- Output: 0 (tương ứng chó), 1 (tương ứng với mèo).
 
 3. Bài toán phát hiện đeo khẩu trang
 
-	- Input: hình ảnh hoặc video trực tiếp từ camera
-	- Output: 0 hoặc 1 tưng ứng có đeo hoặc không đeo khẩu trang
+	- Input: hình ảnh hoặc video trực tiếp từ camera.
+	- Output: 0 hoặc 1 tưng ứng có đeo hoặc không đeo khẩu trang.
 
 4. Bài toán nhận diện logo thương hiệu trên thị trường
 
-	- Input: một bức ảnh có chưa logo
+	- Input: một bức ảnh có chưa logo.
 	- Output: dạng text chưa tên của logo đó.
