@@ -6,7 +6,6 @@
 - Nguyễn Thành Vương 19522542
 
 
-
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/huynhthientung/CS114.L21.KHCL/tree/master)
 
  This repository contains homeworks, histories of team's activity, Machine learning source code, etc,...
@@ -15,7 +14,7 @@
 
 ## Tech
 [![N|Python](https://www.python.org/static/community_logos/python-logo.png)](https://www.python.org/)
-[![N|Colab](https://colab.research.google.com/img/colab_favicon_256px.png)](https://colab.research.google.com/)
+[![N|Colab Notebook](https://colab.research.google.com/img/colab_favicon_256px.png)](https://colab.research.google.com/)
 ## Installation
 
 ## Plugins
