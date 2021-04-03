@@ -1,9 +1,12 @@
 # Machine learning course at UIT 2nd term 2020 - 2021
 
 ## We have three members: 
-- Huỳnh Thiện Tùng 19522492
-- Lê Thị Thanh Thanh 19520954
-- Nguyễn Thành Vương 19522542
+
+| Members | Student ID |
+| ------ | ------ |
+| Huỳnh Thiện Tùng | 19522492 |
+| Lê Thị Thanh Thanh | 19520954 |
+| Nguyễn Thành Vương | 19522542 |
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/huynhthientung/CS114.L21.KHCL/tree/master)
