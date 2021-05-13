@@ -39,6 +39,26 @@ Sản lượng lúa (kg) trên tổng diện tích đất
 - Loại bỏ các trường không cần thiết, không ảnh hưởng đến kết quả Output.
 - Trực quan hóa dữ liệu.
 
+# 3. Dự đoán hành vi trả nợ đúng hạn của khách hàng cá nhân tại các ngân hàng
+
+**Input:**
+- Độ tuổi
+- Giới tính
+- Tình trạng hôn nhân (1 hoặc 0)
+- Mục đích vay (có thể phân loại đánh số)
+- Tài sản thế chấp (1 hoặc 0)
+- Thu nhập (phân loại: cao, thấp, trung bình)
+- Thời hạn vay (phân loại: dài hạn, trung hạn, ngắn hạn)
+
+**Output:**
+- Trả nợ đúng hạn (1) hoặc trả nợ không đúng hạn (0)
+
+**Cách thu thập dữ liệu:**
+- Thu thập dữ liệu từ các ngân hàng bao gồm các thông tin như trên
+- Lưu trữ dưới dạng file .csv
+
+**Xử lý dữ liệu:**
+- Loại bỏ các điểm dữ liệu thừa hoặc thiếu sót trong quá trình thu thập.
 
 
 
