@@ -12,10 +12,10 @@ Output: Có tai nạn
 Output: Không có tai nạn
 
 ## Mô tả dữ liệu
-> Dữ liệu do nhóm tự xây dựng bằng cách thu thập trên internet
-> Dự kiến có khoảng 10.000 tấm ảnh bao gồm 02 lớp: có tai nạn (5000 ảnh) và không có tai nạn (5000 ảnh)
-> Các ảnh trên sẽ được gán nhãn bởi các thành viên trong nhóm
-> Dự kiến phân chia tập train/dev/test theo tỉ lệ 60%/20%/20%
+1. Dữ liệu do nhóm tự xây dựng bằng cách thu thập trên internet
+2. Dự kiến có khoảng 10.000 tấm ảnh bao gồm 02 lớp: có tai nạn (5000 ảnh) và không có tai nạn (5000 ảnh)
+3. Các ảnh trên sẽ được gán nhãn bởi các thành viên trong nhóm
+4. Dự kiến phân chia tập train/dev/test theo tỉ lệ 60%/20%/20%
 
 
 
