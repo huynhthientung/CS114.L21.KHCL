@@ -8,7 +8,7 @@
 ![Tai Nạn](https://baogialai.com.vn/dataimages/202012/original/images2981626_M_t_v__tai_n_n_giao_th_ng_gi_a_xe_taxi_v__xe_m_y_x_y_ra_t_i_khu_v_c_ng__ba_Phan___nh_Ph_ng_Ph_m_V_n___ng.__nh_L__H_a.jpg "Tai Nạn")
 Output: Có tai nạn
  - Ví dụ: Input là bức ảnh dưới đây
-![Không có tai Nạn](https://lh3.googleusercontent.com/proxy/ZIkTb0cjo2zHOUsABV-u-aBL3LHVfBYDfmW5bFu7PFcrx2DeqCPbTMsHtYTvWGY14R3ffgtmdbroK9dRi5G4X425DMOxE55Hz87V5F9tbRkHyvLuJ4HUYwWxr4LESIaFjUCm5ET84LR3YiHOG8HNrObsG2QcCYZvBvrZ4UGQcDR-Wo5Zu2ZnvXq8Vg "Không có tai nạn")
+![Không có tai Nạn](https://drvn.gov.vn/upload/20830/fck/files/8b3b03176b57c884c1d7735b59cdb546.jpg "Không có tai nạn")
 Output: Không có tai nạn
 
 ## Mô tả dữ liệu
